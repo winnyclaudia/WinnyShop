@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WinnyShop</string>
+    <string name="invoice">invoice</string>
+    <string name="delete">delete</string>
+    <string name="clear">clear</string>
+    <string name="insert">insert</string>
+    <string name="to_cart">To Cart</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="search">Search</string>
+    <string name="harga">Harga</string>
+    <string name="console">Console</string>
+    <string name="name">Nama</string>
+    <string name="id">ID</string>
+    <string name="transaction">Transaction</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="KingShop">WinnyShop</string>
+</resources>
